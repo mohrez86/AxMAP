@@ -25,7 +25,7 @@ LocalAddress = 'C:\VerilogDirectory\';
 6. In the MATLAB command window, type `AxMAP`, and press Enter. By running this script, the Verilog description of four adders are produced and stored in the directory saved in the variable `LocalAddress` (e.g., `C:\VerilogDirectory\`).
 
 ## Additional Information
-AxMAP comprises several modules which are orchiestrated by the `AxMAP.m` script. There are several variables that are initialized in line 6 to 14 of `AxMAP.m`:
+AxMAP comprises several modules which are orchestrated by the `AxMAP.m` script. There are several variables that are initialized in line 6 to 14 of `AxMAP.m`:
 ```
 NumOfDesiredDesigns = 4;
 StepIteration       = 1000000;
