@@ -1,5 +1,5 @@
 # AxMAP
-AxMAP serves as a framework for illustrating the benefits of fast and input-aware error calculation in the efficiency of automatic circuit generation tools. The tool takes five input parameters. Power, area, and delay are considered as the designer's circuit budget constraints. The tolerable Mean Error Distance (MED) over a given pair of input patterns is regarded as the error constraint. AxMAP explores the design space and generates approximate adders using the random search algorithm. In each iteration, the selected design that satisfies the constraints is considered as a valid output.
+AxMAP serves as a framework for illustrating the benefits of fast and input-aware error calculation in the efficiency of automatic circuit generation tools. The tool takes five input parameters. Power, area, and delay are considered as the designer's circuit budget constraints. The tolerable Mean Error Distance (MED) over a given pair of input patterns is regarded as the error constraint. AxMAP explores the design space and generates approximate adders using the random search algorithm. In each iteration, the selected design that satisfies the constraints is considered as a valid output. For more details, read our paper on AxMAP [[paper]](https://doi.org/10.1109/TC.2020.2968905).
 
 # Setting up and using AxMAP
 
