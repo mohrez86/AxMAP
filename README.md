@@ -45,3 +45,25 @@ These variables are the parameters of AxMAP, which are explained as follows:
 - `POWER_Const` is a constraint that dictates the maximum amount of dynamic power consumption allowed for a generated design.
 - `AREA_Const` is a constraint that dictates the maximum amount of occupied silicon footprint allowed for a generated design.
 - `InputPatternA` and `InputPatternB` are the input pattern of the first and the second inputs to each design.
+
+
+## Citing AxMAP
+
+You can cite AxMAP by simply copying the follwoing text:
+
+```
+@ARTICLE{8967161,
+  author={Rezaalipour, Morteza and Rezaalipour, Mohammad and Dehyadegari, Masoud and Bojnordi, Mahdi Nazm},
+  journal={IEEE Transactions on Computers}, 
+  title={AxMAP: Making Approximate Adders Aware of Input Patterns}, 
+  year={2020},
+  volume={69},
+  number={6},
+  pages={868-882},
+  keywords={Adders;Space exploration;Measurement;Monte Carlo methods;Error probability;Computational modeling;Image processing;Approximate computing;adders;mean error distance;error probability;circuit synthesis},
+  doi={10.1109/TC.2020.2968905}}
+
+```
+
+
+Morteza Rezaalipour, Mohammad Rezaalipour, Masoud Dehyadegari, Mahdi Nazm Bojnordi, _AxMAP: Making Approximate Adders Aware of Input Patterns_ Transactions of Computers, 2020. 
